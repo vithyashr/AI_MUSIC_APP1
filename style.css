@@ -1,0 +1,53 @@
+body {
+    background-size: cover;
+}
+
+#div_harry {
+
+    float: left;
+     margin-left:15px;
+
+}
+
+#div_peter {
+
+    float: right;
+    margin-right:15px;
+}
+
+.header {
+
+    width: 100%;
+    font-size: 20px;
+    font-family: cursive;
+    margin: 0px;
+    background-color: rgba(17, 109, 215, 0.299);
+    color: aliceblue;
+    padding: 15px;
+}
+
+#peter{
+
+    margin:30px;
+    background-color: rgba(160, 135, 222, 0.6);
+    color: aliceblue;
+    border-radius: 10px;
+    padding: 5px;
+    font-family:'Courier New', Courier, monospace, Arial, sans-serif;
+}
+
+#harry{
+
+   margin:20px;
+   background-color: rgba(160, 135, 222, 0.6);
+   color: aliceblue;
+   border-radius: 10px;
+   padding: 5px;
+   font-family:'Courier New', Courier, monospace, Arial, sans-serif;
+}
+
+canvas{
+
+    border:5px dotted grey;
+    border-radius: 25px;
+}
